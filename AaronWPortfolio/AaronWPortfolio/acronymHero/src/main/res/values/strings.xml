@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AcronymHero</string>
+    <string name="ah_acronym">Acronym</string>
+    <string name="ah_enter_expansion">Enter expansion</string>
+    <string name="ah_submit">Submit</string>
+    <string name="ah_skip">Skip</string>
+    <string name="ah_hint_category">Hint: Category</string>
+    <string name="ah_hint_first">Hint: First Letters</string>
+    <string name="ah_score">Score</string>
+    <string name="ah_round">Round</string>
+    <string name="ah_play_again">Play Again</string>
+    <string name="ah_correct">Correct</string>
+    <string name="ah_wrong_try_again">Wrong, try again</string>
+    <string name="ah_game_over">Game Over</string>
+</resources>

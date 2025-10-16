@@ -1,0 +1,5 @@
+<resources>
+    <string name="ah_instruction">Type the full expansion for the acronym</string>
+    <string name="ah_category_label">Category: %1$s</string>
+    <string name="ah_initials_label">Initials: %1$s</string>
+</resources>
