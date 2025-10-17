@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CarCare</string>
+    <string name="cc_title">Car Care</string>
+    <string name="cc_car_name_label">Car name</string>
+    <string name="cc_add_custom">Add Custom Task</string>
+    <string name="cc_task_name">Task name</string>
+    <string name="cc_schedule_in">Schedule in</string>
+    <string name="cc_15m">15m</string>
+    <string name="cc_1d">1d</string>
+    <string name="cc_1w">1w</string>
+    <string name="cc_1mo">1mo</string>
+    <string name="cc_default_tasks">Recommended Tasks</string>
+    <string name="cc_due">Reminder scheduled</string>
+    <string name="cc_channel_name">Car Care Reminders</string>
+    <string name="cc_channel_desc">Maintenance reminders for your vehicles</string>
+    <string name="cc_hint">Choose a car, pick a task, and schedule a reminder</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BookTracker</string>
+    <string name="bt_title">Title</string>
+    <string name="bt_author">Author</string>
+    <string name="bt_genre">Genre</string>
+    <string name="bt_status">Status</string>
+    <string name="bt_progress">Progress</string>
+    <string name="bt_add_book">Add Book</string>
+    <string name="bt_save">Save</string>
+    <string name="bt_update">Update</string>
+    <string name="bt_delete">Delete</string>
+    <string name="bt_cancel">Cancel</string>
+    <string name="bt_reading">Reading</string>
+    <string name="bt_not_started">Not Started</string>
+    <string name="bt_finished">Finished</string>
+    <string name="bt_search_hint">Search by title or author</string>
+    <string name="bt_books">Books</string>
+    <string name="bt_details">Details</string>
+    <string name="bt_edit">Edit</string>
+</resources>
