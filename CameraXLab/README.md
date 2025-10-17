@@ -1,17 +1,18 @@
-# BookTracker
+# CameraX Lab
 
-An Android app for tracking books using Room database and Kotlin.  
-Users can add, edit, and remove books, and view reading progress in a clean Jetpack Compose interface.
+An Android app demonstrating live camera functionality using **CameraX** and Jetpack Compose integration.
 
-## Technologies
-Kotlin  
-Android Studio  
-Room Database  
-Jetpack Compose  
+## Features
+- Live camera preview using CameraX API  
+- Capture and save photos locally  
+- Permission handling for camera access  
+- Simple Compose UI overlay for preview controls  
 
-## Key Concepts
-Data persistence, list management, and state handling.
+## Tech Stack
+- Kotlin  
+- Jetpack Compose  
+- AndroidX CameraX  
+- MVVM structure  
 
-## Reflection
-This project strengthened my understanding of Room database integration, CRUD operations, and efficient state management in Jetpack Compose.
-
+## Purpose
+This project was built as part of a CameraX codelab to explore integrating camera functionality into modern Compose-based Android apps.
